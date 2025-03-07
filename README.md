@@ -2,13 +2,15 @@
 
 Title: Analyzing the Student Engagement and Knowledge Retention based on Engaging and Traditional Teaching method.
 
-AIM : Our survey aims to identify the teaching method which is most preferable for the students and gives the best results and how students are engaged based on the teaching methods.
+AIM : Our project aims to identify the teaching method which is most preferable for the students and gives the best results and how students are engaged based on the teaching methods.
 
 Methodology:
 
 A survey method has been used for this study, where we conducted an in-person survey with students of BITS Pilani to collect  the data by circulating a google form with questionnaires.
 
 The survey was conducted at BITS Pilani, Pilani Campus where students from First Degree programs (B.E.), Higher Degree programs (MBA, M.E.) and Doctoral programs are selected randomly for collecting the responses for conducting the experiment
+
+The following variables have been considered for statistical Analysis using ANOVA (Analysis of Variance) in R:
 
 Independent Variables:
 
@@ -33,3 +35,6 @@ c)      Did this video made you feel excited about the subject?
 Control Variable:
 
 1) Student of BITS Pilani, Pilani campus only.
+
+
+More information regarding the data analysis, R programming file, survey form, project insights and outcomes can be viewed in attached files.
